@@ -48,6 +48,6 @@
 ---
 
 ## 📈 GitHub Stats
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=MRKucherenko&show_icons=true&count_private=true&theme=radical)
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=MRKucherenko&show_icons=true&count_private=true&theme=default)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MRKucherenko&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MRKucherenko&layout=compact&theme=default)
