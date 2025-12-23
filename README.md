@@ -1,10 +1,6 @@
 # 👋 Hi, I’m Mykyta Kucherenko
 
 💻 Full-Stack Developer
-
----
-
-## 📊 Profile Visits
 ![Profile Views](https://komarev.com/ghpvc/?username=MRKucherenko&style=flat-square)
 
 ---
@@ -47,7 +43,6 @@
 
 ---
 
-## 📈 GitHub Stats
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=MRKucherenko&show_icons=true&count_private=true&theme=default)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MRKucherenko&layout=compact&theme=default)
+## 📈 GitHub Analytics
+<img width="530em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=MRKucherenko&show_icons=true&theme=vision-friendly-dark" alt="Mykyta's stats"/>
+<img width="530em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=MRKucherenko&layout=compact&theme=vision-friendly-dark" alt="Mykyta's most languages"/>
