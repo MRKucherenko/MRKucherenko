@@ -40,14 +40,14 @@
 ---
 
 ## 📌 Pinned Projects
-- [DataHub Front](https://github.com/MRKucherenko/DataHub_front) – project for client  
-- [Nothing Landing Page](https://github.com/MRKucherenko/Nothing_Landing-Page) – pet project  
-- [2048 Game JS](https://github.com/MRKucherenko/2048_Game_js) – pet project  
-- [Phone Catalog React+TS](https://github.com/MRKucherenko/Phone-Catalog_React-TypeScript) – pet project
+[![DataHub Front](https://img.shields.io/badge/DataHub_Front-Client_Project-blue?style=for-the-badge)](https://github.com/MRKucherenko/DataHub_front)  
+[![Nothing Landing Page](https://img.shields.io/badge/Nothing_Landing_Page-Pet_Project-purple?style=for-the-badge)](https://github.com/MRKucherenko/Nothing_Landing-Page)  
+[![2048 Game JS](https://img.shields.io/badge/2048_Game_JS-Pet_Project-yellow?style=for-the-badge)](https://github.com/MRKucherenko/2048_Game_js)  
+[![Phone Catalog React+TS](https://img.shields.io/badge/Phone_Catalog_React_TS-Pet_Project-green?style=for-the-badge)](https://github.com/MRKucherenko/Phone-Catalog_React-TypeScript)
 
 ---
 
 ## 📈 GitHub Stats
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=MRKucherenko&show_icons=true&theme=radical)
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=MRKucherenko&show_icons=true&count_private=true&theme=radical)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MRKucherenko&layout=compact&theme=radical)
